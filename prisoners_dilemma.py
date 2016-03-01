@@ -122,7 +122,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                     
                             
     ######
-    ######
+    ###### BB
     #
     #This example player always betrays.      
     elif player == 1:
